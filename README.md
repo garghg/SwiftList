@@ -29,5 +29,3 @@ SwiftList Task Manager is a simple Java-based task management application with a
 ## Dependencies
 
 - This project uses Java Swing for the graphical user interface.
-
-## Screenshots
