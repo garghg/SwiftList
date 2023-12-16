@@ -4,7 +4,7 @@ SwiftList Task Manager is a simple Java-based task management application with a
 
 
 
-<p align="right">
+<p align="center">
   <img width="620" height="620" src=https://github.com/garghg/SwiftList/assets/139658164/9fa75541-92c8-4d0f-a9a3-699711942481>
 </p>
 
